@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "FullName": "test",
+    "Notes": "this is thie test",
+    "ExpiryDate": "2026-08-27T00:00:00",
+    "Quantity": 34,
+    "Price": 34234,
+    "Brand": "bb"
+  },
+  {
+    "Id": 2,
+    "FullName": "ran",
+    "Notes": "jdlsk",
+    "ExpiryDate": "2028-11-30T00:00:00",
+    "Quantity": 1,
+    "Price": 3454,
+    "Brand": "fs"
+  },
+  {
+    "Id": 3,
+    "FullName": "ran",
+    "Notes": "jdlsk",
+    "ExpiryDate": "2028-11-30T00:00:00",
+    "Quantity": 3,
+    "Price": 3454,
+    "Brand": "fs"
+  }
+]

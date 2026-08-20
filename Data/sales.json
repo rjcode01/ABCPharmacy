@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "MedicineId": 2,
+    "MedicineName": "ran",
+    "QuantitySold": 2,
+    "UnitPrice": 3454,
+    "TotalAmount": 6908,
+    "SoldAt": "2026-08-20T12:48:49.544745+05:30"
+  }
+]
